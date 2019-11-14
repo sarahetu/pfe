@@ -1,0 +1,22 @@
+{
+  "short_name": "PWA",
+  "name": "e-learning pwa",
+  "theme_color": "#eb5252",
+  "background_color": "#2d89ef",
+  "display": "standalone",
+  "Scope": "/",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/login"
+}
